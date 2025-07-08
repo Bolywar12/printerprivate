@@ -7,3 +7,8 @@ Windows Registry Editor Version 5.00
 "ForceKerberosForRpc"=dword:00000001
 [HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Print]
 "RpcAuthnLevelPrivacyEnabled"=dword:00000000
+
+# yuklab olish
+
+https://github.com/Bolywar12/printerprivate/raw/main/FixPrinter.reg
+
