@@ -8,7 +8,8 @@ Windows Registry Editor Version 5.00
 [HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\Print]
 "RpcAuthnLevelPrivacyEnabled"=dword:00000000
 
-# yuklab olish
+## 📥 Yuklab olish
 
-https://github.com/Bolywar12/printerprivate/raw/main/FixPrinter.reg
+[🧩 FixPrinter.reg faylini bu yerdan yuklab oling](https://github.com/Bolywar12/printerprivate/raw/main/FixPrinter.reg)
+
 
